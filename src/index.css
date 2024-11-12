@@ -1,0 +1,15 @@
+.h1-custom {
+  font-size: 5rem;
+}
+
+.bg-custom {
+  background-color: #eacdbd;
+}
+
+.img-desaturate {
+  filter: brightness(0.6);
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
